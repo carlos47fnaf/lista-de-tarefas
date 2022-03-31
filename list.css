@@ -51,8 +51,8 @@ ul li{
     font-size: 14px;
     transition: 0.2s;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-/* make the list items unselectable */
+    /* make the list items unselectable */
 -webkit-user-select: none;
 -moz-user-select: none;
 -ms-user-select: none
+}
